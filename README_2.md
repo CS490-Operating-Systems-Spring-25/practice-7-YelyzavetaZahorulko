@@ -6,7 +6,7 @@
 
 `aarch64-linux-gnu-ld -o task1 task1.o`
 
-**Run:**
+**Run:*
 `./task1`
 
 **Expected Result:**
